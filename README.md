@@ -1,4 +1,4 @@
-### Hi there traveller, I'm Imaad 👋
+### Here's a little bit about me 👋
 
 
   📚 I'm an A-Level Computer Science student<br>

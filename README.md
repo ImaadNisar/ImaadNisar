@@ -1,7 +1,3 @@
-### 👋 Here's a little bit about me
+👋 Allo
 
-
-  📚 I'm an A-Level Computer Science student<br>
-  🌱 I’m currently learning Python and JS<br>
-  🔭 Here you can find all my projects :)
-  
+📚 Learning Python, JS and PHP. 

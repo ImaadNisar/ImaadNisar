@@ -1,3 +1,3 @@
 <h1>👋 Allo</h1>
 
-📚 Learning Python, JS and PHP.
+📚 Learning all the languages and all the maths

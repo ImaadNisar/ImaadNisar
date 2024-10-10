@@ -1,3 +1,4 @@
-<h1>👋 Allo</h1>
+<h1>👋 Hi</h1>
 
-📚 Learning all the languages and all the maths
+Current 2nd Year CS @ Cambridge.
+Interested in all things Computer Science, maths and (a little) physics ;) 
